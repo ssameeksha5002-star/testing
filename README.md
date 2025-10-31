@@ -1,3 +1,3 @@
 ## LUA
 
-- This is lua testing file
+- This is a lua testing file
